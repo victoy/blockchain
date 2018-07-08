@@ -6,4 +6,4 @@
   - Using truffle
   - ERC20, ERC721
 2. EOS
-3. Steam
+3. Steem
